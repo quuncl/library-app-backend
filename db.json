@@ -1,0 +1,196 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "lera",
+      "password": "55"
+    },
+    {
+      "id": 2,
+      "username": "123",
+      "password": "123"
+    },
+    {
+      "username": "123",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "username": "lera",
+      "password": "55",
+      "id": 4
+    },
+    {
+      "username": "lera",
+      "password": "55",
+      "id": 5
+    },
+    {
+      "username": "lera",
+      "password": "55",
+      "id": 6
+    },
+    {
+      "username": "lera",
+      "password": "123",
+      "id": 7
+    },
+    {
+      "username": "lera1",
+      "password": "$2b$10$p2TBmkLnGNy.NDgPSiSuoejIk4sSCqOdHdeT7SSh30OYEjZbff3DG",
+      "id": 8
+    },
+    {
+      "username": "login",
+      "password": "$2b$10$N85oBGB6atMli13woxHMV.SwQo8eKXIcpiS7L/I1XiZ2ThMqSpo6C",
+      "id": 9
+    },
+    {
+      "username": "бам",
+      "password": "$2b$10$DZH/.9MqbgJh8YSxdsn8P.8wujkPCF4oVZOVggvNTEoI1qZ1ot9si",
+      "id": 10
+    },
+    {
+      "username": "б",
+      "password": "$2b$10$7/WT7oXqngvXMOecgvJ1DuhTfCGD2AYqRWGZW9YnsuM.lQJn/uBDe",
+      "id": 11
+    },
+    {
+      "username": "55",
+      "password": "$2b$10$n7fkpf2hZZyJCcpRpWI5EeL.Mr.ObhIZI/ooj2KP2Gmu7F1FPFMGG",
+      "id": 12
+    },
+    {
+      "username": "89",
+      "password": "$2b$10$RQoA8CtAItWR59LLzRCuS.7z2VXizYKujVbOQ1fat8X8OKCK9Pgaa",
+      "id": 13
+    },
+    {
+      "username": "99",
+      "password": "$2b$10$OM5snrVJNEdJT0sOF1bXOeBBTso8CGji9rO7Cj8YgX1tqJmPciy92",
+      "id": 14
+    },
+    {
+      "username": "100",
+      "password": "$2b$10$cB1UzxommM3oGyrUubDaqucGTQ6b0yZTesGSorLXF1sSrCoOKBj.C",
+      "id": 15
+    },
+    {
+      "username": "101",
+      "password": "$2b$10$b9a3hNxg1sW77RIFg0SZ1e5DedtovOm8BpgTlcGHI9OlwhBnxEYMy",
+      "id": 16
+    },
+    {
+      "username": "email@email",
+      "password": "$2b$10$fG24wvCqyj8PG4N3/AExZ.OgC1lnVG5WRnsEMiGvofOPTe1HrGiOK",
+      "id": 17
+    },
+    {
+      "username": "email1@email",
+      "password": "$2b$10$//thFgxfDrD1.VwODYwL0e4BVJCekYxW1ogikm8pjbE.MjeEhz3wa",
+      "id": 18
+    },
+    {
+      "username": "email8@email",
+      "password": "$2b$10$pU07.WAYWXNO3G5rE1a0Mey.hDUYRHcyje.1CaPRYPDkTA/7iqn2K",
+      "id": 19
+    },
+    {
+      "username": "email@email22",
+      "password": "$2b$10$5.cafyk4GXhVAsI73a2eROmhau92vVFCmzYwtwkkJUawlquOJ8.Vu",
+      "id": 20
+    },
+    {
+      "username": "email@email222",
+      "password": "$2b$10$oxOov7s2lORSph6Luyp/Aeo6rRbhscQymOqmEb6RmpxpLB3.Wesr.",
+      "id": 21
+    },
+    {
+      "username": "edmironova@mail.ru",
+      "password": "$2b$10$dqZi2Ef22.1olVQcaaqrVOkN8euV0M86XrW.j18GcnBjGwYo4t.di",
+      "id": 22
+    },
+    {
+      "username": "g",
+      "password": "$2b$10$T1nmU01zrd3g5uzvuXF3JOMJiulzJnPD9j5cowAlcm5tpH5n9yM6W",
+      "id": 23
+    },
+    {
+      "username": "gg@gg",
+      "password": "$2b$10$zI08.f0x1VKzNJ5wR/haOeWx9zOZMP4YjpBD9tfcSwgxqlGywRv86",
+      "id": 24
+    },
+    {
+      "username": "g@g",
+      "password": "$2b$10$bUmxfKdSInHf/hnsfFliDulDqjstt9IZCj/a5e35KbhVCMintJjRe",
+      "id": 25
+    },
+    {
+      "username": "h@g",
+      "password": "$2b$10$5YgA56TdyXUY184kpWlWWeMUT1WFqO7Y6anXszF8H/7kTRgxA.QEu",
+      "id": 26
+    },
+    {
+      "username": "q@q",
+      "password": "$2b$10$kAIhKIWQ12sEYWWgWq4UZOxFJZRCWPh.nu2nZIavwIr2eMRFQjKqC",
+      "id": 27
+    },
+    {
+      "username": "gbhfgdhn@bjk.ru",
+      "password": "$2b$10$B8eZ1XOIqFIHmBJ9.ciqKO5a0qakvCYiOINUI/pZhSZuQq3DSionm",
+      "id": 28
+    },
+    {
+      "username": "test123@bk.ru",
+      "password": "$2b$10$Qqnv9FUYQAOArDGGWMMn1.5ZyUCp43jPH5uEAtuYhumXEWRGXpjG6",
+      "id": 29
+    },
+    {
+      "username": "gbhftdjhn@bk.ru",
+      "password": "$2b$10$5DnBdJoDc7ne3wwG5ZDU9ux8uBwOT1zdt5Qr5pvrY//TB0NRM5atO",
+      "id": 30
+    },
+    {
+      "username": "testr1234@bk.ru",
+      "password": "$2b$10$DvRB6jyFOX8D/BMPhfwSGelyuHDyCvXcCCg/4.cCN0cDADQHc4W26",
+      "id": 31
+    },
+    {
+      "username": "nghfm@bk.ru",
+      "password": "$2b$10$nFwGOmRRY6rSFTouc.Vv/eilOCZcHPh4MFFWK4KoJVBPliKczLVuW",
+      "id": 32
+    },
+    {
+      "username": "hbfdgh@bb",
+      "password": "$2b$10$MVf8YC.joEYmOyYOKq0RjOBAtXK5OEHAfgr8d.ThWq2w6LRhw2rma",
+      "id": 33
+    },
+    {
+      "username": "jdtyjjtd@bk.ru",
+      "password": "$2b$10$KKMU/g3W59peN9z/kp23bOuafXaX3Tuv9pTyGxldVASUDc6Md8LV2",
+      "id": 34
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Hello World"
+    },
+    {
+      "id": 2,
+      "title": "JSON Server is awesome"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "Great post!",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "Thanks for the info!",
+      "postId": 2
+    }
+  ]
+}
