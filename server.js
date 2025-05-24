@@ -7,6 +7,7 @@ const fs = require('fs');
 
 // Enable CORS
 server.use(cors());
+server.use(jsonServer.bodyParser);
 
 // Set default middlewares (logger, static, cors and no-cache)
 server.use(middlewares);
