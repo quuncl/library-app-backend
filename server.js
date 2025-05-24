@@ -12,6 +12,9 @@ server.use(middlewares);
 
 // Add custom routes before JSON Server router
 server.use((req, res, next) => {
+  console.log(`${req.method} ${req.url}`);
+  console.log('Request body:', req.body);
+  
   if (req.method === 'POST') {
     req.body.createdAt = Date.now();
   }
